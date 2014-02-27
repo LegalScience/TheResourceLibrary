@@ -1,0 +1,35 @@
+The System referred to as
+
+Akoma Ntoso 
+-----------
+
+is provided by the Copyright Holder
+
+OASIS
+-----
+
+under this instantiation of the
+
+Akoma Ntoso SPECIFICATION LICENSE:
+---------------------------------
+
+Copyright (C) Copyright Holder: All Rights Reserved.
+
+Definition:
+
+In the following, "Specification" refers to all diagrams and texts for defining the System, including models/metamodels, glossaries/taxonomies/ontologies, semantic formalizations, grammars/schemas, sublanguage-naming systematics, transformers (e.g., normalizers and upgraders), as well as examples and test/use cases, along with their natural-language explanation and documentation.
+
+
+Declaration:
+
+This Specification may be used, reproduced, published, presented, and distributed, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, reproduced, published, presented, and distributed, in whole or in part, without restriction of any kind, provided that 
+* an unmodified copy of this document is included with all such copies and derivative works,
+* non-authorized derivative works are clearly identified as such, and
+* this Specification itself is not modified in any way, except as part of a collaboration with the Copyright Holder or to the extent necessary to translate its natural-language explanation and documentation into other natural languages.
+
+Disclaimer:
+
+THIS SPECIFICATION IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SPECIFICATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+************
+The template of the Akoma Ntoso SPECIFICATION LICENSE, which may be instantiated for other specifications, can be found at the following URL:xxxxxxxxxxxxxx
